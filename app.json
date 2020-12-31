@@ -1,9 +1,9 @@
 { "name": "ForwardTagRemoverBot", 
  "description": " A Telegram Bot To Hide Forward Source",
- "repository": "https://github.com/Artis7eeR/ForwardTagRemoverBot",
- "logo": "https://telegra.ph/file/faacd4dd5b446769381f4.jpg",
+ "repository": "https://github.com/kmacprt/kforward",
+ "logo": "https://telegra.ph/file/44706b57abb809b53c68d.png",
  "keywords": [ "bot","Artis7eeR", "telegram", "Rasak","TeamCyphers" ],
- "success_url": "https://telegram.dog/Anonforwabot",
+ "success_url": "https://telegram.dog/kajfor_bot",
  "env": {
  "BOT_TOKEN": 
 {"description":"Get This Value from https://telegram.dog/BotFather",
