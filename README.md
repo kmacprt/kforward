@@ -16,7 +16,7 @@
 
 ```
  #Clone the repo👾
- git clone https://github.com/Artis7eeR/ForwardTagRemoverBot.git
+ git clone https://github.com/kmacprt/kforward.git
  
  #Open The Folder📂
  cd ForwardTagRemoverBot
